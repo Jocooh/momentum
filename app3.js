@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* const age =prompt("How old are you?");
 console.log(typeof age);
 
@@ -38,3 +39,14 @@ else if(age>80){
 else{
   console.log("be careful your health");
 }
+=======
+/* const age =prompt("How old are you?");
+console.log(typeof age);
+
+console.log(typeof "15",typeof parseInt("15")); */
+// ㄴstring을 number로 바꿔줌,, parseInt()
+
+const age=parseInt(prompt("How old are you?"));
+console.log(age);
+
+>>>>>>> bbbde334329b2290283ac7682f4b051d5edf1d49
