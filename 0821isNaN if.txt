@@ -1,0 +1,10 @@
+isNaN:숫자인지 아닌지 판별
+=>boolean을 return함
+
+if(true){
+console.log()}=>true일경우 {}안의 값이  return
+else{}=>false일 경우 여기값이 return
+
+
+else if: if의 값이 false일때 다른  condition을 제안함
+ 
